@@ -7,7 +7,7 @@ import { Play } from "lucide-react"
 import Link from "next/link"
 
 const games = [
-  { id: 1, name: "Blackjack", href: "/games/blackjack", image: "🃏" },
+  { id: 1, name: "Card Game", href: "/games/cardGame", image: "🃏" },
   { id: 2, name: "Slots", href: "/games/slots", image: "🎰" },
   { id: 3, name: "Dice", href: "/games/dice", image: "🎲" },
   { id: 4, name: "Roulette", href: "/games", image: "🎡" },
